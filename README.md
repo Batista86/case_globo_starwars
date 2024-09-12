@@ -21,11 +21,11 @@ notebooks/case.ipynb: Notebook com o código para a criação do banco de dados 
 
 As seguintes tabelas foram criadas no DuckDB a partir dos arquivos JSON:
 
-personagens: Contém informações sobre os personagens de Star Wars, incluindo nome, altura, peso, gênero e outras características relevantes.
+personagens: Tabela que armazena informações sobre os personagens de Star Wars, incluindo nome, altura, peso, gênero e outras características relevantes.
 
-planets: Esta tabela armazena dados sobre os planetas, como nome, clima, terreno e população.
+planets: Tabela que armazena dados sobre os planetas, como nome, clima, terreno e população.
 
-starships: Contém informações sobre as naves espaciais, incluindo nome, modelo, fabricante e capacidade de carga.
+starships: Tabela que armazena dados sobre as naves espaciais, incluindo nome, modelo, fabricante e capacidade de carga.
 
 films: Tabela que lista os filmes de Star Wars, incluindo título, data de lançamento, diretor e outras informações relevantes.
 
